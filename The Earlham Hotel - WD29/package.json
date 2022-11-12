@@ -1,0 +1,9 @@
+{
+  "name": "the-earlham-hotel---wd29",
+  "version": "0.0.0",
+  "description": "The Earlham Hotel - WD29",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
